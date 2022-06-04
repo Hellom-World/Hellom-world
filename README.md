@@ -1,9 +1,23 @@
 ## Hellom Oliveira  :octocat:
+ 
+<p align="left">
+  <strong>Hello! 👋</strong>   
+</p>
+<p align="left">
+   I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2014.<br>
+   I live in Porto - Portugal since 2019 with my wife and my three cats.<br>
+   I'm studying software development.<br>
+   And my hobby is play chess and Study somethink new always. i like it.<br>
+</p>
+<br>
+
+
  <div>
   <a href="https://github.com/dev-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-oliveira&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-oliveira&layout=compact&langs_count=7&theme=dark"/>
+  </div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="oliveira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
