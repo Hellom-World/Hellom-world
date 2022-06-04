@@ -4,7 +4,7 @@
   <strong>Hello! 👋</strong>   
 </p>
 <p align="left">
-   I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2014.<br>
+   I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2012.<br>
    I live in Porto - Portugal since 2019 with my wife and my three cats.<br>
    I'm studying software development.<br>
    And my hobby is play chess and Study somethink new always. i like it.<br>
