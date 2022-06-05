@@ -1,7 +1,7 @@
 ## Hellom Oliveira  :octocat:
  
 <p align="left">
-  <strong>Hello! 👋</strong>   
+  <strong>Hi! 👋</strong>   
 </p>
 <p align="left">
    I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2012.<br>
