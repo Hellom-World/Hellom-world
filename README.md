@@ -4,9 +4,9 @@
   <strong>Hi! 👋</strong>   
 </p>
 <p align="left">
+   I'm studying software development since 2020.<br>
    I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2012.<br>
    I live in Porto - Portugal since 2019 with my wife and my three cats.<br>
-   I'm studying software development since 2020.<br>
    And my hobby is play chess and Study somethink new always. i like it.<br>
 </p>
 <br>
