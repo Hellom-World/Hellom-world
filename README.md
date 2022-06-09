@@ -1,15 +1,7 @@
-## Hellom Oliveira  :octocat:
- 
-<p align="left">
-  <strong>Hi! 👋</strong>   
-</p>
-<p align="left">
-   I'm studying software development since 2020.<br>
-   I'm <strong>Hellom Mendes</strong> and I've been working as a Electrician since 2012.<br>
-   I live in Porto - Portugal since 2019 with my wife and my three cats.<br>
-   And my hobby is play chess and Study somethink new always. i like it.<br>
-</p>
-<br>
+<h1> Hellom Mendes </h1> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=7000&color=524E01&background=FFFFFF&width=1200&height=100&lines=Hi!+%F0%9F%91%8B+I'm+software+development+since+2020.;I+live+in+Porto+-+Portugal+since+2019+with+my+wife+and+my+three+cats.;And+my+hobby+is+play+chess+and+Study+somethink+new+always.+i+like+it.)](https://git.io/typing-svg)
+
 
 
  <div>
