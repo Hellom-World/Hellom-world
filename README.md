@@ -1,5 +1,6 @@
 <h1> Hi! Welcome to Hellom Word! 😃 </h1> 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=7000&color=524E01&background=FFFFFF&width=1200&height=100&lines=I'm+software+development+since+2020.;I+live+in+Porto+-+Portugal+since+2019.;And+my+hobby+is+play+chess+and+to+learn+somethink+new+always.)](https://git.io/typing-svg)
 
 
