@@ -8,8 +8,8 @@
  <div>
   <a href="https://github.com/Hellom-World">
     <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellom-World&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellom-World&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hllom-World&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hllom-World&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
  <div style="display: inline_block"><br>
