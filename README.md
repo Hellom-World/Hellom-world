@@ -1,9 +1,34 @@
-<h1> Hi! Welcome to Hellom World! 😃 </h1> 
+<div>
+ <div align="center">
+    <h1>
+      <b>
+       Hello🌎World!
+      </b>
+    </h1> 
+ </div>
+ <div align="left">
+   <i>“O mundo é para quem nasce para o conquistar<br>
+   E não para quem sonha que pode conquistá-lo, ainda que tenha razão"</i>
+ </div>
+ <div align="right"">
+  <sub> — Álvaro de Campos (Fernando Pessoa), 15 de janeiro de 1928 </sub>
+  <h2></h2>
+ </div>
+ </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=7000&color=524E01&background=FFFFFF&width=1200&height=100&lines=I'm+software+development+since+2020.;I+live+in+Porto+-+Portugal+since+2019.;And+my+hobby+is+play+chess+and+to+learn+somethink+new+always.)](https://git.io/typing-svg)
-
-
+<p float="left" align="center">
+  <a href="">
+    <img src="" width="265"/>
+  </a>
+  &nbsp;
+  <a href="">
+    <img src="" width="265"/>
+  </a>
+  &nbsp;
+  <a href="">
+    <img src="" width="265"/>
+  </a>
+</p>
 
  <div>
   <a href="https://github.com/Hellom-World">
