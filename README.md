@@ -1,7 +1,12 @@
  <div align="center">
-   <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/Common/Profile-Title.png" width="2000" cursor="default"/>
+  <a href="#">
+   <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/Common/Profile-Title.png" width="2000"/>
+  </a> 
  </div>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1000" height="300"></img>
+<a href="#">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1050" height="300"></img>
+</a>
+<h2 align="center">Projects</h2>
 </div>
 <p align="center">
   <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
@@ -17,7 +22,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1050" alt="GitHub Streak" /></p>
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img float="left" align="right" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
