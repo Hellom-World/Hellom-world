@@ -1,8 +1,7 @@
-<div>
  <div align="center">
-    <h1><img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/Common/Profile-Title.png" width="2000" cursor="default"/></h1>
+   <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/Common/Profile-Title.png" width="2000" cursor="default"/>
  </div>
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1000" height="300"></img>
 </div>
 <p float="left" align="center">
   <a href="">
@@ -18,6 +17,14 @@
   </a>
 </p>
 
+<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
+ <div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img float="left" align="right" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+</div>
+
+
 ## 🤵 About Me
 
 - ⚡ Pro Electrician at [UPK](https://www.linkedin.com/company/upk---gest%C3%A3o-de-facilities-e-manuten%C3%A7%C3%A3o-sa/mycompany/).
@@ -32,9 +39,3 @@
   
 ### Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,c,cpp,github,figma,notion,git)](https://skillicons.dev)
-<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
- <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img float="left" align="right" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-</div>
