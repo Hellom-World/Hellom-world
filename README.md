@@ -7,11 +7,11 @@
   <a href="">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260" height="80"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="260" height="80"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="" >
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="260" height="80"/>
   </a>
