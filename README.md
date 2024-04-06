@@ -2,15 +2,8 @@
  <div align="center">
     <h1><img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/Common/Profile-Title.png" width="2000" cursor="default"/></h1>
  </div>
- <div align="left">
-   <i>“O mundo é para quem nasce para o conquistar<br>
-   E não para quem sonha que pode conquistá-lo, ainda que tenha razão"</i>
- </div>
- <div align="right"">
-  <sub> — Álvaro de Campos (Fernando Pessoa), 15 de janeiro de 1928 </sub>
- </div>
+
 </div>
-<hr>
 <p float="left" align="center">
   <a href="">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260" height="80"/>
