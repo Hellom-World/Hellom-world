@@ -3,16 +3,16 @@
  </div>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1000" height="300"></img>
 </div>
-<p float="left" align="center">
+<p align="center">
   <a href="">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260" height="80"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="260" height="80"/>
   </a>
-  &nbsp;
-  <a href="">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="" >
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="260" height="80"/>
   </a>
 </p>
