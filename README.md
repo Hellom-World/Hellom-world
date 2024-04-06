@@ -25,24 +25,23 @@
   </a>
 </p>
 
- <div>
-  <a href="https://github.com/Hellom-World">
-    <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
-  <img align="center" alt="Icon-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  
-  <img align="center" alt="Icon-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-  <img align="center" alt="Icon-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
-  <img align="center" alt="Icon-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
-  <img align="center" alt="Icon-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+## 🤵 About Me
 
+- ⚡ Pro Electrician at [UPK](https://www.linkedin.com/company/upk---gest%C3%A3o-de-facilities-e-manuten%C3%A7%C3%A3o-sa/mycompany/).
+- 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/) community.
+
+### Things I Enjoy
+
+- ♟️ Play Chess.
+- 📈 Economy and Finance.
+- 🏃🏻 Running.
+- 🥋 Jiu-Jitsu ArtSuave
+  
+### Tech Toolbox
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,c,cpp,github,figma,notion,git)](https://skillicons.dev)
+<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
+ <div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img float="left" align="right" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
 </div>
