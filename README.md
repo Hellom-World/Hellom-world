@@ -13,15 +13,15 @@
 <hr>
 <p float="left" align="center">
   <a href="">
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="300"/>
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="280"/>
   </a>
   &nbsp;
   <a href="">
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="300"/>
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="280"/>
   </a>
   &nbsp;
   <a href="">
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="300"/>
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="280"/>
   </a>
 </p>
 
