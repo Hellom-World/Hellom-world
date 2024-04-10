@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1050" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1050" alt="GitHub Streak"/></p>
 
 ## 🤵 About Me
 
