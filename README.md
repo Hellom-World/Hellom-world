@@ -15,26 +15,20 @@
 <h2 align="center">Projects</h2>
 </div>
 <p align="center">
-  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260" height="80"/>
+  <a align="right" href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260em" height="80em"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="260" height="80"/>
+  <a align="right" href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Common-Core.png" width="260em" height="80em"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif" >
-    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="260" height="80"/>
+  <a align="right" href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif" >
+    <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-JavaScript.png" width="260em" height="80em"/>
   </a>
 </p>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=hellom-world&theme=transparent&card_width=1050" alt="GitHub Streak" /></p>
- <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img float="left" align="right" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-</div>
-
 
 ## 🤵 About Me
 
@@ -50,3 +44,9 @@
   
 ### Tech Toolbox
 [![My Skills](https://skillicons.dev/icons?i=css,html,js,c,cpp,github,figma,notion,git)](https://skillicons.dev)
+
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hellom-World&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img align="left" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellom-World&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+</div>
