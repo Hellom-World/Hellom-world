@@ -7,10 +7,10 @@
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1050" height="300"></img>
 </a>
  <div align="left">
-   <i>"Somos uma maneira do cosmos conhecer a si mesmo."</i>
+   <i>"If I have seen further it is by standing on the shoulders of giants."</i>
  </div>
  <div align="right"">
-  <sub> —Carl Sagan</sub>
+  <sub> — Isaac Newton</sub>
  </div>
 <h2 align="center">Projects</h2>
 </div>
