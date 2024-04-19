@@ -6,12 +6,23 @@
 <a href="#">
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk5Z250aG5tN3M4NmM5c2VoOTVsaWJkcTZva216NXMybDYwODZrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="1050" height="300"></img>
 </a>
+ <!---
+SMALL ICONS
+--->
+<p align="center">
+  <a href='https://www.linkedin.com/in/hellom-mendes-3916a75b/' target="_blank"><img alt='Linkedin-Hellom' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  </a>
+  <a href='https://profile.intra.42.fr/users/heolivei' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
+</p>
  <div align="left">
    <i>"Where there is a will, there is a way."</i>
  </div>
  <div align="right"">
   <sub> — Plato</sub>
  </div>
+
 <h2 align="center">Projects</h2>
 </div>
 <p align="center">
