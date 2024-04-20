@@ -26,7 +26,7 @@ SMALL ICONS
 <h2 align="center">Projects</h2>
 </div>
 <p align="center">
-  <a align="right" href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmdmd0dzZ6Y2xycGp3cnd4MnloeHMxMzN6Z2w5ajU5N3cwM2RiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1032CtoCPsxZkbJZ5/giphy.gif">
+  <a align="right" href="https://github.com/Hellom-World/piscine">
     <img src="https://github.com/Hellom-World/Hellom-world/blob/main/profile/flags/Image-42-Piscine.png" width="260em" height="80em"/>
   </a>
   &nbsp;&nbsp;
