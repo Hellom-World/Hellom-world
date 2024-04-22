@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-   <i>"Where there is a will, there is a way."</i>
+   <i>"Nearly all men can stand adversity, but if you want to test a man's character, give him power."</i>
  </div>
  <div align="right">
-  <sub> — Plato</sub>
+  <sub> — Abraham Lincoln</sub>
  </div>
 
 <h2 align="center">Projects</h2>
