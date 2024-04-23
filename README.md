@@ -20,7 +20,7 @@ SMALL ICONS
    <i>"Nearly all men can stand adversity, but if you want to test a man's character, give him power."</i>
  </div>
  <div align="right">
-  <sub> — Abraham Lincoln</sub>
+  <sub> — Abraham Lincoln </sub>
  </div>
 
 <h2 align="center">Projects</h2>
