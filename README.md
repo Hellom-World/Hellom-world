@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-   <i>"Your most unhappy customers are your greatest source of learning."</i>
+  <i>"Innovation distinguishes between a leader and a follower."</i>
  </div>
  <div align="right">
-  <sub> — Bill Gates </sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
