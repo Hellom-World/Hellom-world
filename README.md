@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The purpose of our lives is to be happy."</i>
+  <i>"If life were predictable it would cease to be life, and be without flavor."</i>
  </div>
  <div align="right">
-  <sub>— Dalai Lama</sub>
+  <sub>— Eleanor Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
