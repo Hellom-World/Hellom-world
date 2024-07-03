@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is ten percent what happens to us and ninety percent how we respond to it."</i>
+  <i>"Not how long, but how well you have lived is the main thing."</i>
  </div>
  <div align="right">
-  <sub>— Charles R. Swindoll</sub>
+  <sub>— Seneca</sub>
  </div>
 
 <h2 align="center">Projects</h2>
