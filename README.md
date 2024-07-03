@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
+  <i>"Life is ten percent what happens to us and ninety percent how we respond to it."</i>
  </div>
  <div align="right">
-  <sub>— Will Smith</sub>
+  <sub>— Charles R. Swindoll</sub>
  </div>
 
 <h2 align="center">Projects</h2>
