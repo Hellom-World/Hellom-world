@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Success usually comes to those who are too busy to be looking for it."</i>
+  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
  </div>
  <div align="right">
-  <sub>— Henry David Thoreau</sub>
+  <sub>— Will Smith</sub>
  </div>
 
 <h2 align="center">Projects</h2>
