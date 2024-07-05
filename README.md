@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The healthiest response to life is joy."</i>
+  <i>"The unexamined life is not worth living."</i>
  </div>
  <div align="right">
-  <sub>— Deepak Chopra</sub>
+  <sub>— Socrates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
