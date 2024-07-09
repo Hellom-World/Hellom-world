@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The unexamined life is not worth living."</i>
+  <i>"The way to get started is to quit talking and begin doing."</i>
  </div>
  <div align="right">
-  <sub>— Socrates</sub>
+  <sub>— Walt Disney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
