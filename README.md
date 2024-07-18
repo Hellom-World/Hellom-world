@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Don’t be afraid to give up the good to go for the great."</i>
+  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
  </div>
  <div align="right">
-  <sub>— John D. Rockefeller</sub>
+  <sub>— Winston Churchill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
