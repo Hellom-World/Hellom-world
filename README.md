@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+  <i>"The greatest glory in living lies not in never falling, but in rising every time we fall."</i>
  </div>
  <div align="right">
-  <sub>— Winston Churchill</sub>
+  <sub>— Nelson Mandela</sub>
  </div>
 
 <h2 align="center">Projects</h2>
