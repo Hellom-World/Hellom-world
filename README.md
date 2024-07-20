@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"In the end, it’s not the years in your life that count. It’s the life in your years."</i>
+  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
  </div>
  <div align="right">
-  <sub>— Abraham Lincoln</sub>
+  <sub>— Winston Churchill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
