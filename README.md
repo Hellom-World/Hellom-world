@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The greatest glory in living lies not in never falling, but in rising every time we fall."</i>
+  <i>"In the end, it’s not the years in your life that count. It’s the life in your years."</i>
  </div>
  <div align="right">
-  <sub>— Nelson Mandela</sub>
+  <sub>— Abraham Lincoln</sub>
  </div>
 
 <h2 align="center">Projects</h2>
