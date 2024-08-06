@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The successful warrior is the average man, with laser-like focus."</i>
+  <i>"If life were predictable it would cease to be life, and be without flavor."</i>
  </div>
  <div align="right">
-  <sub>— Bruce Lee</sub>
+  <sub>— Eleanor Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
