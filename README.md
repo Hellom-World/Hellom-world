@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+  <i>"The big lesson in life, baby, is never be scared of anyone or anything."</i>
  </div>
  <div align="right">
-  <sub>— Soren Kierkegaard</sub>
+  <sub>— Frank Sinatra</sub>
  </div>
 
 <h2 align="center">Projects</h2>
