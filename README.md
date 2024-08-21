@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The purpose of our lives is to be happy."</i>
+  <i>"The only impossible journey is the one you never begin."</i>
  </div>
  <div align="right">
-  <sub>— Dalai Lama</sub>
+  <sub>— Tony Robbins</sub>
  </div>
 
 <h2 align="center">Projects</h2>
