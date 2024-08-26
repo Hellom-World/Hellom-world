@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Not how long, but how well you have lived is the main thing."</i>
+  <i>"In order to write about life first you must live it."</i>
  </div>
  <div align="right">
-  <sub>— Seneca</sub>
+  <sub>— Ernest Hemingway</sub>
  </div>
 
 <h2 align="center">Projects</h2>
