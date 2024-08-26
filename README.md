@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The healthiest response to life is joy."</i>
+  <i>"Not how long, but how well you have lived is the main thing."</i>
  </div>
  <div align="right">
-  <sub>— Deepak Chopra</sub>
+  <sub>— Seneca</sub>
  </div>
 
 <h2 align="center">Projects</h2>
