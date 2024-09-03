@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving."</i>
+  <i>"You never really learn much from hearing yourself speak."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— George Clooney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
