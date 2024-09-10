@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The unexamined life is not worth living."</i>
+  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
  </div>
  <div align="right">
-  <sub>— Socrates</sub>
+  <sub>— Celine Dion</sub>
  </div>
 
 <h2 align="center">Projects</h2>
