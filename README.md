@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
+  <i>"If life were predictable it would cease to be life, and be without flavor."</i>
  </div>
  <div align="right">
-  <sub>— Celine Dion</sub>
+  <sub>— Eleanor Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
