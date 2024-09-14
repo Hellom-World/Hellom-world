@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"You never really learn much from hearing yourself speak."</i>
+  <i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
  </div>
  <div align="right">
-  <sub>— George Clooney</sub>
+  <sub>— Colin Powell</sub>
  </div>
 
 <h2 align="center">Projects</h2>
