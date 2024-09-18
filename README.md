@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+  <i>"I like criticism. It makes you strong."</i>
  </div>
  <div align="right">
-  <sub>— Soren Kierkegaard</sub>
+  <sub>— LeBron James</sub>
  </div>
 
 <h2 align="center">Projects</h2>
