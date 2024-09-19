@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"I like criticism. It makes you strong."</i>
+  <i>"Don’t settle for what life gives you; make life better and build something."</i>
  </div>
  <div align="right">
-  <sub>— LeBron James</sub>
+  <sub>— Ashton Kutcher</sub>
  </div>
 
 <h2 align="center">Projects</h2>
