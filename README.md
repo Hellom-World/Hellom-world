@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"I find that the harder I work, the more luck I seem to have."</i>
+  <i>"The only limit to our realization of tomorrow is our doubts of today."</i>
  </div>
  <div align="right">
-  <sub>— Thomas Jefferson</sub>
+  <sub>— Franklin D. Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
