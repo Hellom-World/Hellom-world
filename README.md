@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A ação nem sempre traz felicidade, mas não há felicidade sem ação."</i>
+  <i>"Sem uma meta, você se desviará por qualquer caminho."</i>
  </div>
  <div align="right">
-  <sub>— Benjamin Disraeli</sub>
+  <sub>— Sêneca</sub>
  </div>
 
 <h2 align="center">Projects</h2>
