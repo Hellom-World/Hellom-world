@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The only limit to our realization of tomorrow is our doubts of today."</i>
+  <i>"Innovation distinguishes between a leader and a follower."</i>
  </div>
  <div align="right">
-  <sub>— Franklin D. Roosevelt</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
