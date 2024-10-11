@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is like riding a bicycle. To keep your balance, you must keep moving."</i>
+  <i>"In order to write about life first you must live it."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— Ernest Hemingway</sub>
  </div>
 
 <h2 align="center">Projects</h2>
