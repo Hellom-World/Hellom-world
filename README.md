@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"If you want to live a happy life, tie it to a goal, not to people or things."</i>
+  <i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— Colin Powell</sub>
  </div>
 
 <h2 align="center">Projects</h2>
