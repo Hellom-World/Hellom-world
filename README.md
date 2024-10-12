@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
+  <i>"If you want to live a happy life, tie it to a goal, not to people or things."</i>
  </div>
  <div align="right">
-  <sub>— Will Smith</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
