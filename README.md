@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The only impossible journey is the one you never begin."</i>
+  <i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
  </div>
  <div align="right">
-  <sub>— Tony Robbins</sub>
+  <sub>— Colin Powell</sub>
  </div>
 
 <h2 align="center">Projects</h2>
