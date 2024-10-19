@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Get busy living or get busy dying."</i>
+  <i>"Do all the good you can, for all the people you can, in all the ways you can, as long as you can."</i>
  </div>
  <div align="right">
-  <sub>— Stephen King</sub>
+  <sub>— Hillary Clinton</sub>
  </div>
 
 <h2 align="center">Projects</h2>
