@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Do all the good you can, for all the people you can, in all the ways you can, as long as you can."</i>
+  <i>"Life is what happens when you're busy making other plans."</i>
  </div>
  <div align="right">
-  <sub>— Hillary Clinton</sub>
+  <sub>— John Lennon</sub>
  </div>
 
 <h2 align="center">Projects</h2>
