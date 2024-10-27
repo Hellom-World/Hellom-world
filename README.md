@@ -20,7 +20,7 @@ SMALL ICONS
   <i>"Life is either a daring adventure or nothing at all."</i>
  </div>
  <div align="right">
-  <sub>— Helen Keller</sub>
+  <sub>—  Helen Keller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
