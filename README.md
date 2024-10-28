@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A criatividade é a inteligência se divertindo."</i>
+  <i>"Life is a succession of lessons which must be lived to be understood."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— Helen Keller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
