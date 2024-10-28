@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is a succession of lessons which must be lived to be understood."</i>
+  <i>"In the end, it’s not the years in your life that count. It’s the life in your years."</i>
  </div>
  <div align="right">
-  <sub>— Helen Keller</sub>
+  <sub>— Abraham Lincoln</sub>
  </div>
 
 <h2 align="center">Projects</h2>
