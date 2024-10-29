@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is either a daring adventure or nothing at all."</i>
+  <i>"Everything negative – pressure, challenges – is all an opportunity for me to rise."</i>
  </div>
  <div align="right">
-  <sub>—  Helen Keller</sub>
+  <sub>— Kobe Bryant</sub>
  </div>
 
 <h2 align="center">Projects</h2>
