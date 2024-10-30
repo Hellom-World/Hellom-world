@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Everything negative – pressure, challenges – is all an opportunity for me to rise."</i>
+  <i>"Deixe que suas conquistas falem por você."</i>
  </div>
  <div align="right">
-  <sub>— Kobe Bryant</sub>
+  <sub>— Napoleon Hill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
