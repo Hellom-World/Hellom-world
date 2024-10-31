@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
+  <i>"The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."</i>
  </div>
  <div align="right">
-  <sub>— Bill Gates</sub>
+  <sub>— Henry Ford</sub>
  </div>
 
 <h2 align="center">Projects</h2>
