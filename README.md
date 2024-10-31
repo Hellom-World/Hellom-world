@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Deixe que suas conquistas falem por você."</i>
+  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
  </div>
  <div align="right">
-  <sub>— Napoleon Hill</sub>
+  <sub>— Bill Gates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
