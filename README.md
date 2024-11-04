@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Sem uma meta, você se desviará por qualquer caminho."</i>
+  <i>"Não espere por uma crise para descobrir o que é importante em sua vida."</i>
  </div>
  <div align="right">
-  <sub>— Sêneca</sub>
+  <sub>— Platão</sub>
  </div>
 
 <h2 align="center">Projects</h2>
