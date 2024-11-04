@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."</i>
+  <i>"Todas as coisas são difíceis antes de se tornarem fáceis."</i>
  </div>
  <div align="right">
-  <sub>— Henry Ford</sub>
+  <sub>— Thomas Fuller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
