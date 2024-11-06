@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Live for each second without hesitation."</i>
+  <i>"You never really learn much from hearing yourself speak."</i>
  </div>
  <div align="right">
-  <sub>— Elton John</sub>
+  <sub>— George Clooney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
