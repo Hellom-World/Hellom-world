@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Faça o que puder, com o que você tem, onde você está."</i>
+  <i>"A vida é curta demais para ser pequena."</i>
  </div>
  <div align="right">
-  <sub>— Theodore Roosevelt</sub>
+  <sub>— Benjamin Disraeli</sub>
  </div>
 
 <h2 align="center">Projects</h2>
