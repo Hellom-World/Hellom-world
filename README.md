@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Faça o que puder, com o que você tem, onde você está."</i>
+  <i>"Os problemas são oportunidades disfarçadas."</i>
  </div>
  <div align="right">
-  <sub>— Theodore Roosevelt</sub>
+  <sub>— John Adams</sub>
  </div>
 
 <h2 align="center">Projects</h2>
