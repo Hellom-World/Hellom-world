@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quem não arrisca, não petisca."</i>
+  <i>"A jornada de mil milhas começa com um único passo."</i>
  </div>
  <div align="right">
-  <sub>— Provérbio popular</sub>
+  <sub>— Lao Tsé</sub>
  </div>
 
 <h2 align="center">Projects</h2>
