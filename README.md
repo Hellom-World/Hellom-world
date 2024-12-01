@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quem não arrisca, não petisca."</i>
+  <i>"A vida é 10% o que acontece com você e 90% como você reage a isso."</i>
  </div>
  <div align="right">
-  <sub>— Provérbio popular</sub>
+  <sub>— Charles Swindoll</sub>
  </div>
 
 <h2 align="center">Projects</h2>
