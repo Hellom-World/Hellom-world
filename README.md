@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Os problemas são oportunidades disfarçadas."</i>
+  <i>"The successful warrior is the average man, with laser-like focus."</i>
  </div>
  <div align="right">
-  <sub>— John Adams</sub>
+  <sub>— Bruce Lee</sub>
  </div>
 
 <h2 align="center">Projects</h2>
