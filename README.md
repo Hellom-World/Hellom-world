@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Não deixe o barulho da opinião dos outros abafar sua voz interior."</i>
+  <i>"Os problemas são oportunidades disfarçadas."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— John Adams</sub>
  </div>
 
 <h2 align="center">Projects</h2>
