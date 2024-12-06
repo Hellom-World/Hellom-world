@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O mais importante na vida é saber o que é mais importante."</i>
+  <i>"Não deixe o barulho da opinião dos outros abafar sua voz interior."</i>
  </div>
  <div align="right">
-  <sub>— Sêneca</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
