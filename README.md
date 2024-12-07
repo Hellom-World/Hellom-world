@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Não deixe o barulho da opinião dos outros abafar sua voz interior."</i>
+  <i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Colin Powell</sub>
  </div>
 
 <h2 align="center">Projects</h2>
