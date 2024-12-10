@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Você é o que faz repetidamente. A excelência, então, não é um ato, mas um hábito."</i>
+  <i>"Faça o que puder, com o que você tem, onde você está."</i>
  </div>
  <div align="right">
-  <sub>— Aristóteles</sub>
+  <sub>— Theodore Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
