@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O único lugar onde o sucesso vem antes do trabalho é no dicionário."</i>
+  <i>"Você é aquilo que você pensa o dia todo."</i>
  </div>
  <div align="right">
-  <sub>— Vidal Sassoon</sub>
+  <sub>— Ralph Waldo Emerson</sub>
  </div>
 
 <h2 align="center">Projects</h2>
