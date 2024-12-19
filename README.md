@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A paciência é amarga, mas seus frutos são doces."</i>
+  <i>"Você perde 100% dos tiros que não dá."</i>
  </div>
  <div align="right">
-  <sub>— Jean-Jacques Rousseau</sub>
+  <sub>— Wayne Gretzky</sub>
  </div>
 
 <h2 align="center">Projects</h2>
