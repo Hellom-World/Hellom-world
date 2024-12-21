@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Os problemas são oportunidades disfarçadas."</i>
+  <i>"A ação nem sempre traz felicidade, mas não há felicidade sem ação."</i>
  </div>
  <div align="right">
-  <sub>— John Adams</sub>
+  <sub>— Benjamin Disraeli</sub>
  </div>
 
 <h2 align="center">Projects</h2>
