@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A ação nem sempre traz felicidade, mas não há felicidade sem ação."</i>
+  <i>"Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você."</i>
  </div>
  <div align="right">
-  <sub>— Benjamin Disraeli</sub>
+  <sub>— Cynthia Kersey</sub>
  </div>
 
 <h2 align="center">Projects</h2>
