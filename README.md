@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Sem uma meta, você se desviará por qualquer caminho."</i>
+  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
  </div>
  <div align="right">
-  <sub>— Sêneca</sub>
+  <sub>— Bill Gates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
