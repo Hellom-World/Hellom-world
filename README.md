@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A paciência é amarga, mas seus frutos são doces."</i>
+  <i>"O medo de perder tira a vontade de ganhar."</i>
  </div>
  <div align="right">
-  <sub>— Jean-Jacques Rousseau</sub>
+  <sub>— Vanderlei Luxemburgo</sub>
  </div>
 
 <h2 align="center">Projects</h2>
