@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
+  <i>"O sucesso é uma jornada, não um destino."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Ben Sweetland</sub>
  </div>
 
 <h2 align="center">Projects</h2>
