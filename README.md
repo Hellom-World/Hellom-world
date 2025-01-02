@@ -43,8 +43,8 @@ SMALL ICONS
 
 ## 🤵 About Me
 
-- ⚡ Pro Electrician at [UPK](https://www.linkedin.com/company/upk---gest%C3%A3o-de-facilities-e-manuten%C3%A7%C3%A3o-sa/mycompany/).
-- 🌐 Proud _cadet_ of the [42Porto](https://www.42porto.com/) community.
+Self-taught, passionate about understanding the world and connecting ideas. Exploring curiosity as a path to growth and inspiration.
+- 🌐 Student of the [42Porto](https://www.42porto.com/) community.
 
 ### Things I Enjoy
 
