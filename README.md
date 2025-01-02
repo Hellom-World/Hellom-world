@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O medo de perder tira a vontade de ganhar."</i>
+  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
  </div>
  <div align="right">
-  <sub>— Vanderlei Luxemburgo</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
