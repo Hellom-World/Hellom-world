@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seja a mudança que você quer ver no mundo."</i>
+  <i>"O sucesso é uma jornada, não um destino."</i>
  </div>
  <div align="right">
-  <sub>— Mahatma Gandhi</sub>
+  <sub>— Ben Sweetland</sub>
  </div>
 
 <h2 align="center">Projects</h2>
