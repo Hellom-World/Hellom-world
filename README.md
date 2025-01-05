@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Eu sou o mestre do meu destino; eu sou o capitão da minha alma."</i>
+  <i>"Se você não sabe onde quer ir, qualquer caminho serve."</i>
  </div>
  <div align="right">
-  <sub>— William Ernest Henley</sub>
+  <sub>— Lewis Carroll</sub>
  </div>
 
 <h2 align="center">Projects</h2>
