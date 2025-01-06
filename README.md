@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Se você não sabe onde quer ir, qualquer caminho serve."</i>
+  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
  </div>
  <div align="right">
-  <sub>— Lewis Carroll</sub>
+  <sub>— Walter Elliot</sub>
  </div>
 
 <h2 align="center">Projects</h2>
