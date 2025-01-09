@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"You never really learn much from hearing yourself speak."</i>
+  <i>"Your most unhappy customers are your greatest source of learning."</i>
  </div>
  <div align="right">
-  <sub>— George Clooney</sub>
+  <sub>— Bill Gates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
