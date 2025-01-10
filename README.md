@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Your most unhappy customers are your greatest source of learning."</i>
+  <i>"The unexamined life is not worth living."</i>
  </div>
  <div align="right">
-  <sub>— Bill Gates</sub>
+  <sub>— Socrates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
