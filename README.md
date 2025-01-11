@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Keep calm and carry on."</i>
+  <i>"When we do the best we can, we never know what miracle is wrought in our life or the life of another."</i>
  </div>
  <div align="right">
-  <sub>— Winston Churchill</sub>
+  <sub>— Helen Keller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
