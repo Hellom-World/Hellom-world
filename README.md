@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"When we do the best we can, we never know what miracle is wrought in our life or the life of another."</i>
+  <i>"Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você."</i>
  </div>
  <div align="right">
-  <sub>— Helen Keller</sub>
+  <sub>— Cynthia Kersey</sub>
  </div>
 
 <h2 align="center">Projects</h2>
