@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Se você não sabe onde quer ir, qualquer caminho serve."</i>
+  <i>"O mais importante na vida é saber o que é mais importante."</i>
  </div>
  <div align="right">
-  <sub>— Lewis Carroll</sub>
+  <sub>— Sêneca</sub>
  </div>
 
 <h2 align="center">Projects</h2>
