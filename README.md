@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O mais importante na vida é saber o que é mais importante."</i>
+  <i>"A imaginação é mais importante que o conhecimento."</i>
  </div>
  <div align="right">
-  <sub>— Sêneca</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
