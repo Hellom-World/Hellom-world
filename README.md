@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A criatividade é a inteligência se divertindo."</i>
+  <i>"É melhor falhar na originalidade do que ter sucesso na imitação."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— Herman Melville</sub>
  </div>
 
 <h2 align="center">Projects</h2>
