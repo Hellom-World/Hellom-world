@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A imaginação é mais importante que o conhecimento."</i>
+  <i>"Viver sem amigos é morrer sem testemunhas."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— George Herbert</sub>
  </div>
 
 <h2 align="center">Projects</h2>
