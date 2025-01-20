@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Você é aquilo que você pensa o dia todo."</i>
+  <i>"A criatividade é a inteligência se divertindo."</i>
  </div>
  <div align="right">
-  <sub>— Ralph Waldo Emerson</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
