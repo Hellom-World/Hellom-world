@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Viver sem amigos é morrer sem testemunhas."</i>
+  <i>"Você é aquilo que você pensa o dia todo."</i>
  </div>
  <div align="right">
-  <sub>— George Herbert</sub>
+  <sub>— Ralph Waldo Emerson</sub>
  </div>
 
 <h2 align="center">Projects</h2>
