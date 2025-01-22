@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Viver sem amigos é morrer sem testemunhas."</i>
+  <i>"Quem não arrisca, não petisca."</i>
  </div>
  <div align="right">
-  <sub>— George Herbert</sub>
+  <sub>— Provérbio popular</sub>
  </div>
 
 <h2 align="center">Projects</h2>
