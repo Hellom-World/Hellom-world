@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The way to get started is to quit talking and begin doing."</i>
+  <i>"O medo é o caminho para o lado negro."</i>
  </div>
  <div align="right">
-  <sub>— Walt Disney</sub>
+  <sub>— Yoda</sub>
  </div>
 
 <h2 align="center">Projects</h2>
