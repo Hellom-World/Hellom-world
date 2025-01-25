@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O medo é o caminho para o lado negro."</i>
+  <i>"O fracasso é apenas a oportunidade para recomeçar com mais inteligência."</i>
  </div>
  <div align="right">
-  <sub>— Yoda</sub>
+  <sub>— Henry Ford</sub>
  </div>
 
 <h2 align="center">Projects</h2>
