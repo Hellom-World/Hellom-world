@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O fracasso é apenas a oportunidade para recomeçar com mais inteligência."</i>
+  <i>"Eu posso, porque acredito que posso."</i>
  </div>
  <div align="right">
-  <sub>— Henry Ford</sub>
+  <sub>— Virgílio</sub>
  </div>
 
 <h2 align="center">Projects</h2>
