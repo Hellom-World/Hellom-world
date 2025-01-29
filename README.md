@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A persistência é o menor caminho do sucesso."</i>
+  <i>"O medo de perder tira a vontade de ganhar."</i>
  </div>
  <div align="right">
-  <sub>— Charles Chaplin</sub>
+  <sub>— Vanderlei Luxemburgo</sub>
  </div>
 
 <h2 align="center">Projects</h2>
