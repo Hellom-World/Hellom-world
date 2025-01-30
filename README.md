@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Eu posso, porque acredito que posso."</i>
+  <i>"A persistência é o menor caminho do sucesso."</i>
  </div>
  <div align="right">
-  <sub>— Virgílio</sub>
+  <sub>— Charles Chaplin</sub>
  </div>
 
 <h2 align="center">Projects</h2>
