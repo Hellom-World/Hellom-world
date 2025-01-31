@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O medo de perder tira a vontade de ganhar."</i>
+  <i>"Se você não sabe onde quer ir, qualquer caminho serve."</i>
  </div>
  <div align="right">
-  <sub>— Vanderlei Luxemburgo</sub>
+  <sub>— Lewis Carroll</sub>
  </div>
 
 <h2 align="center">Projects</h2>
