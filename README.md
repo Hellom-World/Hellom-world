@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seja a mudança que você quer ver no mundo."</i>
+  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
  </div>
  <div align="right">
-  <sub>— Mahatma Gandhi</sub>
+  <sub>— Walter Elliot</sub>
  </div>
 
 <h2 align="center">Projects</h2>
