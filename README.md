@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O que somos é consequência do que pensamos."</i>
+  <i>"O que não se começa, nunca se termina."</i>
  </div>
  <div align="right">
-  <sub>— Buda</sub>
+  <sub>— Johann Goethe</sub>
  </div>
 
 <h2 align="center">Projects</h2>
