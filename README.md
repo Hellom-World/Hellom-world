@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O que não se começa, nunca se termina."</i>
+  <i>"Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo."</i>
  </div>
  <div align="right">
-  <sub>— Johann Goethe</sub>
+  <sub>— Paulo Coelho</sub>
  </div>
 
 <h2 align="center">Projects</h2>
