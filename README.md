@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A chave do sucesso é a confiança em si mesmo."</i>
+  <i>"A imaginação é mais importante que o conhecimento."</i>
  </div>
  <div align="right">
-  <sub>— Ralph Waldo Emerson</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
