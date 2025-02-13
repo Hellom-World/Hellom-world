@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Deixe que suas conquistas falem por você."</i>
+  <i>"O sucesso é uma jornada, não um destino."</i>
  </div>
  <div align="right">
-  <sub>— Napoleon Hill</sub>
+  <sub>— Ben Sweetland</sub>
  </div>
 
 <h2 align="center">Projects</h2>
