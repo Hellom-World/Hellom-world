@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Eu posso, porque acredito que posso."</i>
+  <i>"Eu não falhei. Apenas descobri 10 mil maneiras que não funcionam."</i>
  </div>
  <div align="right">
-  <sub>— Virgílio</sub>
+  <sub>— Thomas Edison</sub>
  </div>
 
 <h2 align="center">Projects</h2>
