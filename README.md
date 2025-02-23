@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Grandes realizações são possíveis quando se luta por grandes ideais."</i>
+  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
  </div>
  <div align="right">
-  <sub>— Benjamin Disraeli</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
