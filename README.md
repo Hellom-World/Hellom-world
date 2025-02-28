@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
+  <i>"Os problemas são oportunidades disfarçadas."</i>
  </div>
  <div align="right">
-  <sub>— Bill Gates</sub>
+  <sub>— John Adams</sub>
  </div>
 
 <h2 align="center">Projects</h2>
