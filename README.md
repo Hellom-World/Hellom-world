@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
+  <i>"Não se trata de ser o melhor. Trata-se de ser melhor do que você era ontem."</i>
  </div>
  <div align="right">
-  <sub>— Bill Gates</sub>
+  <sub>— Desconhecido</sub>
  </div>
 
 <h2 align="center">Projects</h2>
