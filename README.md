@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Não se trata de ser o melhor. Trata-se de ser melhor do que você era ontem."</i>
+  <i>"Você perde 100% dos tiros que não dá."</i>
  </div>
  <div align="right">
-  <sub>— Desconhecido</sub>
+  <sub>— Wayne Gretzky</sub>
  </div>
 
 <h2 align="center">Projects</h2>
