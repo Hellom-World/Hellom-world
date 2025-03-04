@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Você perde 100% dos tiros que não dá."</i>
+  <i>"O sucesso geralmente vem para aqueles que estão ocupados demais para procurá-lo."</i>
  </div>
  <div align="right">
-  <sub>— Wayne Gretzky</sub>
+  <sub>— Henry David Thoreau</sub>
  </div>
 
 <h2 align="center">Projects</h2>
