@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Você é o que faz repetidamente. A excelência, então, não é um ato, mas um hábito."</i>
+  <i>"A inovação distingue um líder de um seguidor."</i>
  </div>
  <div align="right">
-  <sub>— Aristóteles</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
