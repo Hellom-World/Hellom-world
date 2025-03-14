@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+  <i>"Nada é impossível, pois os sonhos de ontem são as esperanças de hoje e podem se converter em realidade amanhã."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Walt Disney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
