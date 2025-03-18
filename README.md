@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Deixe que suas conquistas falem por você."</i>
+  <i>"Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo."</i>
  </div>
  <div align="right">
-  <sub>— Napoleon Hill</sub>
+  <sub>— Paulo Coelho</sub>
  </div>
 
 <h2 align="center">Projects</h2>
