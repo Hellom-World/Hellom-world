@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo."</i>
+  <i>"Eu sou o mestre do meu destino; eu sou o capitão da minha alma."</i>
  </div>
  <div align="right">
-  <sub>— Paulo Coelho</sub>
+  <sub>— William Ernest Henley</sub>
  </div>
 
 <h2 align="center">Projects</h2>
