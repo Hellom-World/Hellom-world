@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Not how long, but how well you have lived is the main thing."</i>
+  <i>"Never let the fear of striking out keep you from playing the game."</i>
  </div>
  <div align="right">
-  <sub>— Seneca</sub>
+  <sub>— Babe Ruth</sub>
  </div>
 
 <h2 align="center">Projects</h2>
