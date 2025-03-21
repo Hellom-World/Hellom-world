@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Never let the fear of striking out keep you from playing the game."</i>
+  <i>"I like criticism. It makes you strong."</i>
  </div>
  <div align="right">
-  <sub>— Babe Ruth</sub>
+  <sub>— LeBron James</sub>
  </div>
 
 <h2 align="center">Projects</h2>
