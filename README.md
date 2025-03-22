@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"I like criticism. It makes you strong."</i>
+  <i>"Act as if what you do makes a difference. It does."</i>
  </div>
  <div align="right">
-  <sub>— LeBron James</sub>
+  <sub>— William James</sub>
  </div>
 
 <h2 align="center">Projects</h2>
