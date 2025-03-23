@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Act as if what you do makes a difference. It does."</i>
+  <i>"A sorte favorece a mente bem preparada."</i>
  </div>
  <div align="right">
-  <sub>— William James</sub>
+  <sub>— Louis Pasteur</sub>
  </div>
 
 <h2 align="center">Projects</h2>
