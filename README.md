@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A sorte favorece a mente bem preparada."</i>
+  <i>"Many of life’s failures are people who did not realize how close they were to success when they gave up."</i>
  </div>
  <div align="right">
-  <sub>— Louis Pasteur</sub>
+  <sub>— Thomas A. Edison</sub>
  </div>
 
 <h2 align="center">Projects</h2>
