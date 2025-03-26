@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Keep calm and carry on."</i>
+  <i>"The big lesson in life, baby, is never be scared of anyone or anything."</i>
  </div>
  <div align="right">
-  <sub>— Winston Churchill</sub>
+  <sub>— Frank Sinatra</sub>
  </div>
 
 <h2 align="center">Projects</h2>
