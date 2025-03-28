@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
+  <i>"A ação nem sempre traz felicidade, mas não há felicidade sem ação."</i>
  </div>
  <div align="right">
-  <sub>— Celine Dion</sub>
+  <sub>— Benjamin Disraeli</sub>
  </div>
 
 <h2 align="center">Projects</h2>
