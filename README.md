@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"I find that the harder I work, the more luck I seem to have."</i>
+  <i>"Innovation distinguishes between a leader and a follower."</i>
  </div>
  <div align="right">
-  <sub>— Thomas Jefferson</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
