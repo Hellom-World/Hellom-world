@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Everything negative – pressure, challenges – is all an opportunity for me to rise."</i>
+  <i>"Life is not a problem to be solved, but a reality to be experienced."</i>
  </div>
  <div align="right">
-  <sub>— Kobe Bryant</sub>
+  <sub>— Soren Kierkegaard</sub>
  </div>
 
 <h2 align="center">Projects</h2>
