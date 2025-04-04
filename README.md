@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Success usually comes to those who are too busy to be looking for it."</i>
+  <i>"I like criticism. It makes you strong."</i>
  </div>
  <div align="right">
-  <sub>— Henry David Thoreau</sub>
+  <sub>— LeBron James</sub>
  </div>
 
 <h2 align="center">Projects</h2>
