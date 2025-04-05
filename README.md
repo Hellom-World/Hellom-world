@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Live for each second without hesitation."</i>
+  <i>"Curiosity about life in all of its aspects, I think, is still the secret of great creative people."</i>
  </div>
  <div align="right">
-  <sub>— Elton John</sub>
+  <sub>— Leo Burnett</sub>
  </div>
 
 <h2 align="center">Projects</h2>
