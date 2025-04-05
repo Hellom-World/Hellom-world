@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Curiosity about life in all of its aspects, I think, is still the secret of great creative people."</i>
+  <i>"You only live once, but if you do it right, once is enough."</i>
  </div>
  <div align="right">
-  <sub>— Leo Burnett</sub>
+  <sub>— Mae West</sub>
  </div>
 
 <h2 align="center">Projects</h2>
