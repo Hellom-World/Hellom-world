@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"I like criticism. It makes you strong."</i>
+  <i>"The only impossible journey is the one you never begin."</i>
  </div>
  <div align="right">
-  <sub>— LeBron James</sub>
+  <sub>— Tony Robbins</sub>
  </div>
 
 <h2 align="center">Projects</h2>
