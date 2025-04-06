@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The way to get started is to quit talking and begin doing."</i>
+  <i>"Life is really simple, but we insist on making it complicated."</i>
  </div>
  <div align="right">
-  <sub>— Walt Disney</sub>
+  <sub>— Confucius</sub>
  </div>
 
 <h2 align="center">Projects</h2>
