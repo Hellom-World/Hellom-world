@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Curiosity about life in all of its aspects, I think, is still the secret of great creative people."</i>
+  <i>"If you want to live a happy life, tie it to a goal, not to people or things."</i>
  </div>
  <div align="right">
-  <sub>— Leo Burnett</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
