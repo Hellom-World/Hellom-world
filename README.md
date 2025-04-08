@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"If you want to live a happy life, tie it to a goal, not to people or things."</i>
+  <i>"You only live once, but if you do it right, once is enough."</i>
  </div>
  <div align="right">
-  <sub>— Albert Einstein</sub>
+  <sub>— Mae West</sub>
  </div>
 
 <h2 align="center">Projects</h2>
