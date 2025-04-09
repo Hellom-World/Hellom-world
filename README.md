@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"You only live once, but if you do it right, once is enough."</i>
+  <i>"Don't be afraid to give up the good to go for the great."</i>
  </div>
  <div align="right">
-  <sub>— Mae West</sub>
+  <sub>— John D. Rockefeller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
