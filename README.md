@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The healthiest response to life is joy."</i>
+  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
  </div>
  <div align="right">
-  <sub>— Deepak Chopra</sub>
+  <sub>— Dolly Parton</sub>
  </div>
 
 <h2 align="center">Projects</h2>
