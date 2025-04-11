@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
+  <i>"Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny."</i>
  </div>
  <div align="right">
-  <sub>— Dolly Parton</sub>
+  <sub>— Lao-Tze</sub>
  </div>
 
 <h2 align="center">Projects</h2>
