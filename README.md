@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is what happens when you're busy making other plans."</i>
+  <i>"My mama always said, life is like a box of chocolates. You never know what you're gonna get."</i>
  </div>
  <div align="right">
-  <sub>— John Lennon</sub>
+  <sub>— Forrest Gump</sub>
  </div>
 
 <h2 align="center">Projects</h2>
