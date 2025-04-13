@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"My mama always said, life is like a box of chocolates. You never know what you're gonna get."</i>
+  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
  </div>
  <div align="right">
-  <sub>— Forrest Gump</sub>
+  <sub>— Dolly Parton</sub>
  </div>
 
 <h2 align="center">Projects</h2>
