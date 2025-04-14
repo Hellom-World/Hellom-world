@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
+  <i>"Many of life’s failures are people who did not realize how close they were to success when they gave up."</i>
  </div>
  <div align="right">
-  <sub>— Dolly Parton</sub>
+  <sub>— Thomas A. Edison</sub>
  </div>
 
 <h2 align="center">Projects</h2>
