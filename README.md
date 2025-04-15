@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The greatest glory in living lies not in never falling, but in rising every time we fall."</i>
+  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
  </div>
  <div align="right">
-  <sub>— Nelson Mandela</sub>
+  <sub>— Celine Dion</sub>
  </div>
 
 <h2 align="center">Projects</h2>
