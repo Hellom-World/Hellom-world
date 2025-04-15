@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"In order to write about life first you must live it."</i>
+  <i>"Don’t be afraid to give up the good to go for the great."</i>
  </div>
  <div align="right">
-  <sub>— Ernest Hemingway</sub>
+  <sub>— John D. Rockefeller</sub>
  </div>
 
 <h2 align="center">Projects</h2>
