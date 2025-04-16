@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is really simple, but we insist on making it complicated."</i>
+  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
  </div>
  <div align="right">
-  <sub>— Confucius</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
