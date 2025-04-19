@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The successful warrior is the average man, with laser-like focus."</i>
+  <i>"O sucesso é ir de fracasso em fracasso sem perder o entusiasmo."</i>
  </div>
  <div align="right">
-  <sub>— Bruce Lee</sub>
+  <sub>— Winston Churchill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
