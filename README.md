@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O fracasso é apenas a oportunidade para recomeçar com mais inteligência."</i>
+  <i>"O único lugar onde o sucesso vem antes do trabalho é no dicionário."</i>
  </div>
  <div align="right">
-  <sub>— Henry Ford</sub>
+  <sub>— Vidal Sassoon</sub>
  </div>
 
 <h2 align="center">Projects</h2>
