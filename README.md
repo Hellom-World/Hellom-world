@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O único lugar onde o sucesso vem antes do trabalho é no dicionário."</i>
+  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
  </div>
  <div align="right">
-  <sub>— Vidal Sassoon</sub>
+  <sub>— Walter Elliot</sub>
  </div>
 
 <h2 align="center">Projects</h2>
