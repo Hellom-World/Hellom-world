@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
+  <i>"You never really learn much from hearing yourself speak."</i>
  </div>
  <div align="right">
-  <sub>— Celine Dion</sub>
+  <sub>— George Clooney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
