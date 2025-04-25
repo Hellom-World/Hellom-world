@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
+  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
  </div>
  <div align="right">
-  <sub>— Walter Elliot</sub>
+  <sub>— Celine Dion</sub>
  </div>
 
 <h2 align="center">Projects</h2>
