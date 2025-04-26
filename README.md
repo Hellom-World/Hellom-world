@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The big lesson in life, baby, is never be scared of anyone or anything."</i>
+  <i>"Life is what happens when you're busy making other plans."</i>
  </div>
  <div align="right">
-  <sub>— Frank Sinatra</sub>
+  <sub>— Allen Saunders</sub>
  </div>
 
 <h2 align="center">Projects</h2>
