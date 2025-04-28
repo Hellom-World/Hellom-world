@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Life is what happens when you're busy making other plans."</i>
+  <i>"Aquilo que não nos mata nos fortalece."</i>
  </div>
  <div align="right">
-  <sub>— Allen Saunders</sub>
+  <sub>— Friedrich Nietzsche</sub>
  </div>
 
 <h2 align="center">Projects</h2>
