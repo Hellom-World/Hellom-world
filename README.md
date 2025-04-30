@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Eu não falhei. Apenas descobri 10 mil maneiras que não funcionam."</i>
+  <i>"Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você."</i>
  </div>
  <div align="right">
-  <sub>— Thomas Edison</sub>
+  <sub>— Cynthia Kersey</sub>
  </div>
 
 <h2 align="center">Projects</h2>
