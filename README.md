@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você."</i>
+  <i>"O que somos é consequência do que pensamos."</i>
  </div>
  <div align="right">
-  <sub>— Cynthia Kersey</sub>
+  <sub>— Buda</sub>
  </div>
 
 <h2 align="center">Projects</h2>
