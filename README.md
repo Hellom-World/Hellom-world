@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O que somos é consequência do que pensamos."</i>
+  <i>"O sucesso nasce do querer, da determinação e da persistência em se chegar a um objetivo."</i>
  </div>
  <div align="right">
-  <sub>— Buda</sub>
+  <sub>— José de Alencar</sub>
  </div>
 
 <h2 align="center">Projects</h2>
