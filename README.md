@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O sucesso nasce do querer, da determinação e da persistência em se chegar a um objetivo."</i>
+  <i>"O que não se começa, nunca se termina."</i>
  </div>
  <div align="right">
-  <sub>— José de Alencar</sub>
+  <sub>— Johann Goethe</sub>
  </div>
 
 <h2 align="center">Projects</h2>
