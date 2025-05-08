@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quem não arrisca, não petisca."</i>
+  <i>"A inovação distingue um líder de um seguidor."</i>
  </div>
  <div align="right">
-  <sub>— Provérbio popular</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
