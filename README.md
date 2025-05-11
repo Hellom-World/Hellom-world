@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quem não arrisca, não petisca."</i>
+  <i>"Faça o que puder, com o que você tem, onde você está."</i>
  </div>
  <div align="right">
-  <sub>— Provérbio popular</sub>
+  <sub>— Theodore Roosevelt</sub>
  </div>
 
 <h2 align="center">Projects</h2>
