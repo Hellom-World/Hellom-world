@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Nada é impossível, pois os sonhos de ontem são as esperanças de hoje e podem se converter em realidade amanhã."</i>
+  <i>"A criatividade é a inteligência se divertindo."</i>
  </div>
  <div align="right">
-  <sub>— Walt Disney</sub>
+  <sub>— Albert Einstein</sub>
  </div>
 
 <h2 align="center">Projects</h2>
