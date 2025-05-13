@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A ação nem sempre traz felicidade, mas não há felicidade sem ação."</i>
+  <i>"Act as if what you do makes a difference. It does."</i>
  </div>
  <div align="right">
-  <sub>— Benjamin Disraeli</sub>
+  <sub>— William James</sub>
  </div>
 
 <h2 align="center">Projects</h2>
