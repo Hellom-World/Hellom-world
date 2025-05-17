@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
+  <i>"Seja a mudança que você quer ver no mundo."</i>
  </div>
  <div align="right">
-  <sub>— Will Smith</sub>
+  <sub>— Mahatma Gandhi</sub>
  </div>
 
 <h2 align="center">Projects</h2>
