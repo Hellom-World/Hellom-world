@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The greatest glory in living lies not in never falling, but in rising every time we fall."</i>
+  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
  </div>
  <div align="right">
-  <sub>— Nelson Mandela</sub>
+  <sub>— Will Smith</sub>
  </div>
 
 <h2 align="center">Projects</h2>
