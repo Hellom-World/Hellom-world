@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Winston Churchill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
