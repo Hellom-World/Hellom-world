@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+  <i>"O melhor momento para plantar uma árvore foi há 20 anos. O segundo melhor momento é agora."</i>
  </div>
  <div align="right">
-  <sub>— Winston Churchill</sub>
+  <sub>— Provérbio Chinês</sub>
  </div>
 
 <h2 align="center">Projects</h2>
