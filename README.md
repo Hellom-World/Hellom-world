@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Não deixe o barulho da opinião dos outros abafar sua voz interior."</i>
+  <i>"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through it."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Celine Dion</sub>
  </div>
 
 <h2 align="center">Projects</h2>
