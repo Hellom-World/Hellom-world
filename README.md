@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O maior erro que você pode cometer é o de ficar o tempo todo com medo de cometer algum."</i>
+  <i>"O melhor momento para plantar uma árvore foi há 20 anos. O segundo melhor momento é agora."</i>
  </div>
  <div align="right">
-  <sub>— Elbert Hubbard</sub>
+  <sub>— Provérbio Chinês</sub>
  </div>
 
 <h2 align="center">Projects</h2>
