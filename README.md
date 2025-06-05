@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Many of life’s failures are people who did not realize how close they were to success when they gave up."</i>
+  <i>"Você é aquilo que você pensa o dia todo."</i>
  </div>
  <div align="right">
-  <sub>— Thomas A. Edison</sub>
+  <sub>— Ralph Waldo Emerson</sub>
  </div>
 
 <h2 align="center">Projects</h2>
