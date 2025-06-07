@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O maior erro que você pode cometer é o de ficar o tempo todo com medo de cometer algum."</i>
+  <i>"A jornada de mil milhas começa com um único passo."</i>
  </div>
  <div align="right">
-  <sub>— Elbert Hubbard</sub>
+  <sub>— Lao Tsé</sub>
  </div>
 
 <h2 align="center">Projects</h2>
