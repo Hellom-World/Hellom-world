@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O que quer que a mente do homem possa conceber e acreditar, ela pode alcançar."</i>
+  <i>"O sucesso não é o final, o fracasso não é fatal: o que conta é a coragem de continuar."</i>
  </div>
  <div align="right">
-  <sub>— Napoleon Hill</sub>
+  <sub>— Winston Churchill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
