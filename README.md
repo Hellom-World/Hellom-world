@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O caminho para o sucesso é sempre em construção."</i>
+  <i>"A chave do sucesso é a confiança em si mesmo."</i>
  </div>
  <div align="right">
-  <sub>— Lily Tomlin</sub>
+  <sub>— Ralph Waldo Emerson</sub>
  </div>
 
 <h2 align="center">Projects</h2>
