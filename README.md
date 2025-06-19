@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Quem não arrisca, não petisca."</i>
+  <i>"I find that the harder I work, the more luck I seem to have."</i>
  </div>
  <div align="right">
-  <sub>— Provérbio popular</sub>
+  <sub>— Thomas Jefferson</sub>
  </div>
 
 <h2 align="center">Projects</h2>
