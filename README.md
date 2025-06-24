@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Não deixe o barulho da opinião dos outros abafar sua voz interior."</i>
+  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Bill Gates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
