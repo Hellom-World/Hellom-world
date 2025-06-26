@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Walter Elliot</sub>
  </div>
 
 <h2 align="center">Projects</h2>
