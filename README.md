@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
+  <i>"Life is never easy. There is work to be done and obligations to be met – obligations to truth, to justice, and to liberty."</i>
  </div>
  <div align="right">
-  <sub>— Will Smith</sub>
+  <sub>— John F. Kennedy</sub>
  </div>
 
 <h2 align="center">Projects</h2>
