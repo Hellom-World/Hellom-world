@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A perseverança não é uma longa corrida; é uma série de pequenas corridas, uma após a outra."</i>
+  <i>"Seu cliente mais insatisfeito é sua maior fonte de aprendizado."</i>
  </div>
  <div align="right">
-  <sub>— Walter Elliot</sub>
+  <sub>— Bill Gates</sub>
  </div>
 
 <h2 align="center">Projects</h2>
