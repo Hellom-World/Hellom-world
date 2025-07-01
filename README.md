@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Se você não sabe onde quer ir, qualquer caminho serve."</i>
+  <i>"Success usually comes to those who are too busy to be looking for it."</i>
  </div>
  <div align="right">
-  <sub>— Lewis Carroll</sub>
+  <sub>— Henry David Thoreau</sub>
  </div>
 
 <h2 align="center">Projects</h2>
