@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Success usually comes to those who are too busy to be looking for it."</i>
+  <i>"A verdadeira generosidade é fazer algo por alguém que nunca poderá retribuir."</i>
  </div>
  <div align="right">
-  <sub>— Henry David Thoreau</sub>
+  <sub>— John Bunyan</sub>
  </div>
 
 <h2 align="center">Projects</h2>
