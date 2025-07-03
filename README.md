@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A verdadeira generosidade é fazer algo por alguém que nunca poderá retribuir."</i>
+  <i>"O medo é o caminho para o lado negro."</i>
  </div>
  <div align="right">
-  <sub>— John Bunyan</sub>
+  <sub>— Yoda</sub>
  </div>
 
 <h2 align="center">Projects</h2>
