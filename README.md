@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Viver sem amigos é morrer sem testemunhas."</i>
+  <i>"A paciência é amarga, mas seus frutos são doces."</i>
  </div>
  <div align="right">
-  <sub>— George Herbert</sub>
+  <sub>— Jean-Jacques Rousseau</sub>
  </div>
 
 <h2 align="center">Projects</h2>
