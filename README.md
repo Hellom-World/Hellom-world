@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O sucesso não é o final, o fracasso não é fatal: o que conta é a coragem de continuar."</i>
+  <i>"Seja a mudança que você quer ver no mundo."</i>
  </div>
  <div align="right">
-  <sub>— Winston Churchill</sub>
+  <sub>— Mahatma Gandhi</sub>
  </div>
 
 <h2 align="center">Projects</h2>
