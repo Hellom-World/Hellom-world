@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Seja a mudança que você quer ver no mundo."</i>
+  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
  </div>
  <div align="right">
-  <sub>— Mahatma Gandhi</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
