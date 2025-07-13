@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O sucesso é uma jornada, não um destino."</i>
+  <i>"Quem não arrisca, não petisca."</i>
  </div>
  <div align="right">
-  <sub>— Ben Sweetland</sub>
+  <sub>— Provérbio popular</sub>
  </div>
 
 <h2 align="center">Projects</h2>
