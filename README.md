@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A vida é 10% o que acontece com você e 90% como você reage a isso."</i>
+  <i>"Deixe que suas conquistas falem por você."</i>
  </div>
  <div align="right">
-  <sub>— Charles Swindoll</sub>
+  <sub>— Napoleon Hill</sub>
  </div>
 
 <h2 align="center">Projects</h2>
