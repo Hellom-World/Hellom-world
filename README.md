@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O que não se começa, nunca se termina."</i>
+  <i>"Eu posso, porque acredito que posso."</i>
  </div>
  <div align="right">
-  <sub>— Johann Goethe</sub>
+  <sub>— Virgílio</sub>
  </div>
 
 <h2 align="center">Projects</h2>
