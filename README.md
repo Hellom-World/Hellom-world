@@ -17,7 +17,7 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
  </div>
  <div align="right">
   <sub>— Steve Jobs</sub>
