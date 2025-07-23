@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
+  <i>"Curiosity about life in all of its aspects, I think, is still the secret of great creative people."</i>
  </div>
  <div align="right">
-  <sub>— Steve Jobs</sub>
+  <sub>— Leo Burnett</sub>
  </div>
 
 <h2 align="center">Projects</h2>
