@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Curiosity about life in all of its aspects, I think, is still the secret of great creative people."</i>
+  <i>"Get busy living or get busy dying."</i>
  </div>
  <div align="right">
-  <sub>— Leo Burnett</sub>
+  <sub>— Stephen King</sub>
  </div>
 
 <h2 align="center">Projects</h2>
