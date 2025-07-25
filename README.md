@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Get busy living or get busy dying."</i>
+  <i>"A vida é curta demais para ser pequena."</i>
  </div>
  <div align="right">
-  <sub>— Stephen King</sub>
+  <sub>— Benjamin Disraeli</sub>
  </div>
 
 <h2 align="center">Projects</h2>
