@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"O fracasso é apenas a oportunidade para recomeçar com mais inteligência."</i>
+  <i>"É melhor falhar na originalidade do que ter sucesso na imitação."</i>
  </div>
  <div align="right">
-  <sub>— Henry Ford</sub>
+  <sub>— Herman Melville</sub>
  </div>
 
 <h2 align="center">Projects</h2>
