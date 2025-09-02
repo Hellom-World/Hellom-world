@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Turn your wounds into wisdom."</i>
+  <i>"Money and success don’t change people; they merely amplify what is already there."</i>
  </div>
  <div align="right">
-  <sub>— Oprah Winfrey</sub>
+  <sub>— Will Smith</sub>
  </div>
 
 <h2 align="center">Projects</h2>
