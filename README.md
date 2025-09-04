@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"Don’t be afraid to give up the good to go for the great."</i>
+  <i>"Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny."</i>
  </div>
  <div align="right">
-  <sub>— John D. Rockefeller</sub>
+  <sub>— Lao-Tze</sub>
  </div>
 
 <h2 align="center">Projects</h2>
