@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The successful warrior is the average man, with laser-like focus."</i>
+  <i>"You never really learn much from hearing yourself speak."</i>
  </div>
  <div align="right">
-  <sub>— Bruce Lee</sub>
+  <sub>— George Clooney</sub>
  </div>
 
 <h2 align="center">Projects</h2>
