@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"If life were predictable it would cease to be life, and be without flavor."</i>
+  <i>"Live for each second without hesitation."</i>
  </div>
  <div align="right">
-  <sub>— Eleanor Roosevelt</sub>
+  <sub>— Elton John</sub>
  </div>
 
 <h2 align="center">Projects</h2>
