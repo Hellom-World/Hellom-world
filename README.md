@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The greatest glory in living lies not in never falling, but in rising every time we fall."</i>
+  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
  </div>
  <div align="right">
-  <sub>— Nelson Mandela</sub>
+  <sub>— Dolly Parton</sub>
  </div>
 
 <h2 align="center">Projects</h2>
