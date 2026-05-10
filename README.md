@@ -17,10 +17,10 @@ SMALL ICONS
   <img src="https://komarev.com/ghpvc/?username=Hellom-World&style=flat&color=blue">
 </p>
  <div align="left">
-  <i>"The way I see it, if you want the rainbow, you gotta put up with the rain."</i>
+  <i>"Your time is limited, don’t waste it living someone else’s life."</i>
  </div>
  <div align="right">
-  <sub>— Dolly Parton</sub>
+  <sub>— Steve Jobs</sub>
  </div>
 
 <h2 align="center">Projects</h2>
